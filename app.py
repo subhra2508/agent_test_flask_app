@@ -309,7 +309,7 @@ INDEX_TEMPLATE = CSS_STYLE + """
     
     <header>
         <h1>Blogging Feed</h1>
-        <p class="subtitle">Stateless SQLite-powered pagination feed deploy by gcpauto-deploy agent</p>
+        <p class="subtitle">Stateless SQLite-powered pagination feed</p>
     </header>
     
     <section>
